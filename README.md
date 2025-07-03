@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I have a deep passion for reading, whether it's books, articles, or academic journals, and I constantly seek to expand my knowledge through various written materials.</p>
+<p align="left">I have a deep passion for reading, whether it's book, article, or academic journal, and I constantly seek to expand my knowledge through various written materials.</p>
 
 ###
 
